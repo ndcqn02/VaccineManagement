@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vaccines>
+  <vaccine>
+    <MaVC>vc43</MaVC>
+    <TenVC>gfdg</TenVC>
+    <NgaySX>gdfg</NgaySX>
+    <NgayHetHan>dfgs</NgayHetHan>
+    <SoLuong>70</SoLuong>
+    <GiaTien>500</GiaTien>
+    <MaDM>gdfgdf</MaDM>
+  </vaccine>
+  <vaccine>
+    <MaVC>vc435</MaVC>
+    <TenVC>gfdg</TenVC>
+    <NgaySX>gdfg</NgaySX>
+    <NgayHetHan>dfgs</NgayHetHan>
+    <SoLuong>90</SoLuong>
+    <GiaTien>500</GiaTien>
+    <MaDM>gdfgdf</MaDM>
+  </vaccine>
+  <vaccine>
+    <MaVC>vc4</MaVC>
+    <TenVC>gdgd</TenVC>
+    <NgaySX>6654gdg</NgaySX>
+    <NgayHetHan>7675</NgayHetHan>
+    <SoLuong>7</SoLuong>
+    <GiaTien>500</GiaTien>
+    <MaDM>hfhg</MaDM>
+  </vaccine>
+  <vaccine>
+    <MaVC>vc5</MaVC>
+    <TenVC>Covid 22</TenVC>
+    <NgaySX>53454</NgaySX>
+    <NgayHetHan>543</NgayHetHan>
+    <SoLuong>90</SoLuong>
+    <GiaTien>50</GiaTien>
+    <MaDM>DM2</MaDM>
+  </vaccine>
+  <vaccine>
+    <MaVC>vc6</MaVC>
+    <TenVC>Vaccine xịn</TenVC>
+    <NgaySX>53454</NgaySX>
+    <NgayHetHan>543</NgayHetHan>
+    <SoLuong>90</SoLuong>
+    <GiaTien>50</GiaTien>
+    <MaDM>DM2</MaDM>
+  </vaccine>
+</Vaccines>
